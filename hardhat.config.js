@@ -7,5 +7,5 @@ require("./tasks/faucet");
 
 module.exports = {
   solidity: "0.7.3"
-  // just to check if it works already;
+  // installed npm and runned start
 };
